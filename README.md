@@ -1,37 +1,58 @@
-# 👋 Hola, soy @kayayox
+## 👋 ¡Hola! Soy kayayox
 
-Ingeniero de sistemas y desarrollador autodidacta **C/C++** con enfoque en **programación de bajo nivel**, **gestión de memoria** y **motores de NLP**.  
-Construyo proyectos desde cero,no se trata de reinventar la rueda,es la necesidad de inovar ("porque no?"),
-con énfasis en rendimiento, control de recursos y evolución iterativa.
+Estudiante autodidacta de programación desde 2024.  
+Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo desde cero todo lo que puedo: sin frameworks, sin atajos.
 
-## 🧠 Tecnologías y áreas de interés
+> *"Si no puedes implementarlo, no lo entiendes del todo."*
 
-- **Lenguajes:** C, C++, ensamblador (básico)
-- **Sistemas:** Memoria dinámica, estructuras de datos custom, punteros inteligentes artesanales
-- **NLP:** Motor de procesamiento de lenguaje natural (`Admin8`, `Admin7.x`)
-- **Tooling:** Make, GCC/Clang, GDB, Valgrind
-- **Interés:** Sistemas embebidos, compiladores, OS dev, algoritmos de búsqueda y parsing
+---
 
-## 📌 Proyectos destacados
+### 🔧 Lo que hago ahora
+- **Motor de procesamiento de lenguaje natural (NLP) en C++ puro**
+  - Tokenizador, análisis morfológico, modelos HMM, persistencia en SQLite.
+  - Todo construido manualmente para aprender cada capa del problema.
+- **Librería de estructuras de datos genéricas (`liblista`)**
+  - Listas enlazadas, pilas, colas, con tests y documentación.
+  - Ejercicio de pureza, punteros y gestión de memoria.
+
+---
+
+### 🧠 Filosofía de aprendizaje
+- Si hay algo que no sé, lo investigo, lo escribo y lo compilo hasta que funcione.
+- Prefiero equivocarme y corregir que copiar código que no entiendo.
+- Creo que la mejor forma de respetar una herramienta es dominarla desde la base.
+
+---
+
+### 🌱 Mi momento actual
+Empecé con Git y GitHub a finales de 2025.  
+Estoy aprendiendo a colaborar, a escribir pruebas automatizadas y a pulir mi código con estándares profesionales.  
+Cada repositorio es un paso nuevo en ese camino.
+
+---
+
+### 📌 Proyectos destacados
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [`Admin8`](https://github.com/kayayox/Admin8) | Motor de NLP en C++ con pipeline de análisis sintáctico y semántico |
-| [`Memo_sistem`](https://github.com/kayayox/Memo_sistem) | Gestor de memoria propio en C – asignadores, pools y debugging |
-| [`liblista`](https://github.com/kayayox/liblista) | Biblioteca de listas enlazadas genéricas con pruebas unitarias |
-| [`Admin1.0.0` ... `Admin7`](https://github.com/kayayox?tab=repositories&q=Admin) | Evolución de un motor de reglas y NLP – de prototipo a sistema modular |
+| [`Admin8.2.1`](https://github.com/kayayox/Admin8.2.1) | Motor NLP en C++ con módulos de tokenización, lematización, HMM y almacenamiento en SQLite. **Mi laboratorio principal.** |
+| [`liblista`](https://github.com/kayayox/liblista) | Librería de listas enlazadas genéricas en C. Con tests unitarios y Makefile. |
 
-## 🔧 Filosofía de trabajo
-
-- Código claro, documentado y testeable
-- Experimentar con codigo,en ideas buscando paradigmas nuevos y funcionales
-- Iteración visible (serie `Admin` como ejemplo de mejora continua)
-- Escribir lo que otros usan sin entender completamente – **hasta que lo entienden**
-
-## 📫 Contacto
-
-- GitHub: [@kayayox](https://github.com/kayayox)
+*(Las versiones anteriores de Admin han sido archivadas. Solo conservo la más reciente y mantenida.)*
 
 ---
+
+### 🤝 Busco
+- Aprender de desarrolladores con experiencia.
+- Compartir dudas y soluciones con otros autodidactas.
+- Primeras colaboraciones, aunque sean pequeñas (traducciones, documentación).
+- Feedback honesto sobre mi código.
+
+---
+
+### 📫 Contacto
+Aún no tengo presencia profesional fuera de GitHub, pero puedes escribirme por aquí abriendo un issue en cualquier repositorio. **Todo mensaje es bienvenido.**
+
+*Gracias por pasarte. Si estás aprendiendo como yo, no sueltes el teclado.*
 
 *“Si no puedes implementarlo, no lo entiendes del todo.”*
