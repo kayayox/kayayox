@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy kayayox
 
-Estudiante autodidacta de programación desde 2024.  
+Estudiante autodidacta de programación desde 2024.
 Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo desde cero todo lo que puedo: sin frameworks, sin atajos.
 
 > *"Si no puedes implementarlo, no lo entiendes del todo."*
@@ -10,6 +10,8 @@ Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo des
 ### 🔧 Lo que hago ahora
 - **Motor de procesamiento de lenguaje natural (NLP) en C++ puro**
   - Tokenizador, análisis morfológico, modelos HMM, persistencia en SQLite.
+  - Parte integral de un sistema automatizado de proposito general.
+  - Integrado con TemporalCell,proximamente,formara la primera mente digital capaz de aprender de su entorno.
   - Todo construido manualmente para aprender cada capa del problema.
 - **Librería de estructuras de datos genéricas (`liblista`)**
   - Listas enlazadas, pilas, colas, con tests y documentación.
@@ -25,8 +27,8 @@ Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo des
 ---
 
 ### 🌱 Mi momento actual
-Empecé con Git y GitHub a finales de 2025.  
-Estoy aprendiendo a colaborar, a escribir pruebas automatizadas y a pulir mi código con estándares profesionales.  
+Empecé con Git y GitHub a finales de 2025.
+Estoy aprendiendo a colaborar, a escribir pruebas automatizadas y a pulir mi código con estándares profesionales.
 Cada repositorio es un paso nuevo en ese camino.
 
 ---
