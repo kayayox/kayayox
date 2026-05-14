@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy kayayox
+## ¡Hola! Soy kayayox (Soubhi Khayat Najjar)
 
 Estudiante autodidacta de programación desde 2024.
 Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo desde cero todo lo que puedo: sin frameworks, sin atajos.
@@ -9,9 +9,9 @@ Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo des
 
 ### 🔧 Lo que hago ahora
 - **Motor de procesamiento de lenguaje natural (NLP) en C++ puro**
-  - Tokenizador, análisis morfológico, modelos HMM, persistencia en SQLite.
+  - Tokenizador, análisis morfológico, persistencia en SQLite.
   - Parte integral de un sistema automatizado de proposito general.
-  - Integrado con TemporalCell,proximamente,formara la primera mente digital capaz de aprender de su entorno.
+  - Integrado con TemporalCell,proximamente,formara una suerte de mente digital capaz de aprender de su entorno.
   - Todo construido manualmente para aprender cada capa del problema.
 - **Librería de estructuras de datos genéricas (`liblista`)**
   - Listas enlazadas, pilas, colas, con tests y documentación.
@@ -23,6 +23,7 @@ Me apasiona entender cómo funcionan las cosas por dentro, por eso construyo des
 - Si hay algo que no sé, lo investigo, lo escribo y lo compilo hasta que funcione.
 - Prefiero equivocarme y corregir que copiar código que no entiendo.
 - Creo que la mejor forma de respetar una herramienta es dominarla desde la base.
+- He empezado a utilizar herramientas avanzadas para revision y pruebas,y el uso correcto potencia la calidad del codigo.
 
 ---
 
@@ -37,7 +38,7 @@ Cada repositorio es un paso nuevo en ese camino.
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [`Admin8.2.1`](https://github.com/kayayox/Admin8.2.1) | Motor NLP en C++ con módulos de tokenización, lematización, HMM y almacenamiento en SQLite. **Mi laboratorio principal.** |
+| [`Admin8.5.0`](https://github.com/kayayox/Admin8.5.0) | Motor NLP en C++ con módulos de tokenización, lematización y almacenamiento en SQLite. **Mi laboratorio principal.** |
 | [`liblista`](https://github.com/kayayox/liblista) | Librería de listas enlazadas genéricas en C. Con tests unitarios y Makefile. |
 
 *(Las versiones anteriores de Admin han sido archivadas. Solo conservo la más reciente y mantenida.)*
